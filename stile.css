@@ -1,0 +1,32 @@
+h1{
+color:red;
+margin: 30px;
+}
+
+/*unorderlist*/
+ul{
+list-style: nome;
+background-color: brown;
+
+}
+
+/*si colora quando passo il cursore*/
+li:hover{ 
+    background-color: blue;
+}
+
+#text-1{
+    color: chartreuse;
+    font-size: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
